@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="estilos.css">
+
 <div id="header" align="center">  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0YnE5aWl5cjcyMGEyc29wbnR3ZDFnbGF0c3hncng0bm5lOHhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">   
   <h1 align="center">
@@ -5,11 +7,12 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50">
   </h1>
 </div>
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/https:/github.com/SnowOlw/count.svg" alt="Número de visitantes" />
-</div>
 
+<!---->
+
+<div class="typewriter-container">
+  <p class="typed-text">This is the text that will be typed.</p>
+</div>
 
 
   <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio
