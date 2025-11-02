@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="elementose.css">
+  
     
 </head>
 <body>
-    <h1> hola </h1>
+    <h1> Con el clasico Hola Mundo </h1>
 
 
 </body>
-</html>## Hi there 👋
+
 
 <!--
 **SnowOlw/SnowOlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
