@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  
-    
-</head>
-<body>
-    <h1> Con el clasico Hola Mundo <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />   </h1>
-  
-  <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0YnE5aWl5cjcyMGEyc29wbnR3ZDFnbGF0c3hncng0bm5lOHhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">   
+
+<h1> Con el clasico Hola Mundo <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />   </h1>
+   
+  <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio-->
 
 <!--_________________¶¶¶1___¶¶¶____¶¶¶1_______________
 __________________¶¶¶____¶¶¶____1¶¶1______________
@@ -42,7 +37,7 @@ __________1¶¶___¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶_________
 ____________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶11__________
 11_____________________________________________111
 1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶1
-__¶¶111111111¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶111111111¶__>
+__¶¶111111111¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶111111111¶__-->
 </body>
 
 
