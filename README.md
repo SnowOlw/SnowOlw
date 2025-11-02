@@ -4,16 +4,23 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0YnE5aWl5cjcyMGEyc29wbnR3ZDFnbGF0c3hncng0bm5lOHhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">   
   <h1 align="center">
     Con el clásico Hola Mundo 
-    <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50">
+    <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"><!--talvez la mano ya es demaciado-->
   </h1>
 </div>
 
-<!---->
+<!--texto gif-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=¡Hola+me+presentó!+;Soy+Snow+owl+;¿comó+estás?+;" />
+</p>
+<!--iniciamos con mis datos personales y redes.-->
+<h2>mas sobre mí </h2>
 
-<div class="typewriter-container">
-  <p class="typed-text">This is the text that will be typed.</p>
-</div>
+<p>bueno Mi nombre real es: Carlos Aristides Prudencio Chicas</p>
+<p> Originario de Nicaragua  <img src="https://flagcdn.com/w20/ni.png" alt="Bandera de Nicaragua"> </p>
+<p> </p>
+<p>En realidad no poseo muchas redes sociales pero eso aun esta en procesos XD </p>
 
+<!--NOTA:mejoral para el futuro y tambien cambiar el idioma O hacer una version en ingles para mi futuro-->
 
   <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio
   aparte que bueno por tema de tiempo y que literalmente aun tengo otros proyecto que hacer este perfil esta hecho con
