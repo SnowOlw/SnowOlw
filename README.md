@@ -51,40 +51,35 @@ creativo o tambien soñador </p>
 <!--aqui la parte de los iconos completar-->
 <!--codigo abierto-->
 <div id="header" align="center">  
-  <h3> cogigo abierto </h3>
+  <h3>  <strong>frameworks </strong> </h3>
+  <p>estos son los que mas utilizo y me ciento comodo</p>
+  <p><strong>actualmente estoy  aprendiendo otros</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&perline=14" />
   </a>
 </p>
 </div>
 
 <!--Lenguajes-->
 <div id="header" align="center">  
-  <h3> cogigo abierto </h3>
+  <h3><strong>Los lenguajes que domino son</strong></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,cs,cpp&perline=14" />
   </a>
 </p>
 </div>
 
 <!--herramientas-->
 <div id="header" align="center">  
-  <h3> cogigo abierto </h3>
+  <h3> <strong>Herramientas que utilizo </strong> </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=sqlite,vscode,visualstudio,postman,godot,git,github,figma&perline=14" />
   </a>
 </p>
 </div>
 
 
-<!--almo mas -->
-<div id="header" align="center">  
-  <h3> cogigo abierto </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
-  </a>
-</p>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio
@@ -92,7 +87,7 @@ creativo o tambien soñador </p>
   cosas bastantes basicas a parte que nose porque akgunos detalles no funcionano-->
 
 
-
+<div id="header" align="center">  
 <p>
 _________________¶¶¶1___¶¶¶____¶¶¶1_______________
 __________________¶¶¶____¶¶¶____1¶¶1______________
@@ -128,6 +123,9 @@ ____________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶11__________
 11_____________________________________________111
 1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶1
 __¶¶111111111¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶111111111¶__ </p>
+
+</div>
+
 
 
 
