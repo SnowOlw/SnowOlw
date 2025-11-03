@@ -49,16 +49,42 @@ creativo o tambien soñador </p>
 <p>Buena en este punto es bueno aclalar que aun me sigo desarrollando en estas herramientas y lenguajes pero de a poco a poco donde uno aprende</p>
 
 <!--aqui la parte de los iconos completar-->
-
+<!--codigo abierto-->
 <div id="header" align="center">  
+  <h3> cogigo abierto </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
   </a>
 </p>
-
-  
 </div>
 
+<!--Lenguajes-->
+<div id="header" align="center">  
+  <h3> cogigo abierto </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+  </a>
+</p>
+</div>
+
+<!--herramientas-->
+<div id="header" align="center">  
+  <h3> cogigo abierto </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+  </a>
+</p>
+</div>
+
+
+<!--almo mas -->
+<div id="header" align="center">  
+  <h3> cogigo abierto </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+  </a>
+</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <!--si usted profe viene a leer el codiogo aqui mi firma XD Soy carlos Prudendio
