@@ -31,34 +31,33 @@ creativo o tambien soñador </p>
 
 <!--redes sociales NOTA: mejoral esta parte o incluso extenderlo a futuro-->
 <div align='left'>
-<ul>
-<li>
+<ul><li>
 <a href="https://discord.gg/WMtYgAY2" target="_blank">
-<img src="https://img.shields.io/badge/discord:  snow owl-%2300acee.svg?color=7289DA&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
+<img src="https://img.shields.io/badge/discord:  snow owl-%2300acee.svg?color=7289DA&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a></li>
+<br><li>
 <a href="https://x.com/CarlosPrud66476" target="_blank">
 <img src="https://img.shields.io/badge/twitter X: Carlos.p-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
+</a></li><br><li>
 <a href="carlosprudencio4717@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Mi correo personal-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /> <!--esto se va a tener que cambiar a futuro por otro correo XD-->
-</a>
-</li>
-</ul>
-</div>
+</a></li></ul></div>
 
 <!--NOTA:mejoral para el futuro y tambien cambiar el idioma O hacer una version en ingles para mi futuro-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--uuu lo que me encontre me gusto esta linea: NOTA: usar esto desde ahora-->
-<h2>Estas son Mis Habilidades y donde mejor me manejo</h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Herramientas y conocimientos.</b> <h2 >Estas son Mis Habilidades y donde mejor me manejo</h2>
 
-<p> NOTA: colocar datos......skill??</p>
+<p>Buena en este punto es bueno aclalar que aun me sigo desarrollando en estas herramientas y lenguajes pero de a poco a poco donde uno aprende</p>
 
+<!--aqui la parte de los iconos completar-->
 
+<div id="header" align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" />
+  </a>
+</p>
+
+  
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
