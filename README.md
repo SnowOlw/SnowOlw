@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0YnE5aWl5cjcyMGEyc29wbnR3ZDFnbGF0c3hncng0bm5lOHhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="200">   
   <h1 align="center">
     Con el clásico Hola Mundo 
-    <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"><!--talvez la mano ya es demaciado-->
+  <!--<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50">--><!--talvez la mano ya es demaciado-->
   </h1>
 </div>
 
